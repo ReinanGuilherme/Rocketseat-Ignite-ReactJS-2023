@@ -50,6 +50,10 @@ const BaseInput = styled.input`
 // herdando atributos do BaseInput
 export const TaskInput = styled(BaseInput)`
   flex: 1;
+
+  &::-webkit-calendar-picker-indicator {
+    display: none !important;
+  }
 `
 
 // herdando atributos do BaseInput
