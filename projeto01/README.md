@@ -44,7 +44,7 @@
   </li>
   <li>Acesse a pasta do projeto
     <br>
-    <code>cd projeto02</code>
+    <code>cd projeto01</code>
   </li>
   <li>Instale as dependências do projeto
     <br>
