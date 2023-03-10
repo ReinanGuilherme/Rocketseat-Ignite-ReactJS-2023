@@ -8,14 +8,12 @@
   <li>Estados</li>
   <li>Imutabilidade</li>
   <li>Hooks</li>
-  <li>TypeScript</li>
 </ul>
 <h2>Tecnologias utilizadas</h2>
 <p>As principais tecnologias utilizadas neste projeto foram:</p>
 <ul>
   <li>React</li>
   <li>Vite</li>
-  <li>TypeScript</li>
   <li>Phosphor Icons</li>
   <li>Date FNS</li>
 </ul>
@@ -42,11 +40,11 @@
 <ol>
   <li>Clone este repositório utilizando o seguinte comando:
     <br>
-    <code>git clone https://github.com/seu-usuario/nome-do-repositorio.git</code>
+    <code>git clone https://github.com/ReinanGuilherme/Rocketseat-Ignite-ReactJS-2023</code>
   </li>
   <li>Acesse a pasta do projeto
     <br>
-    <code>cd nome-do-repositorio</code>
+    <code>cd projeto02</code>
   </li>
   <li>Instale as dependências do projeto
     <br>
@@ -56,7 +54,6 @@
     <br>
     <code>yarn dev</code>
   </li>
-  <li>Acesse a aplicação em seu navegador através do endereço http://localhost:3000</li>
 </ol>
 <h2>Considerações finais</h2>
 <p>Este projeto apresenta os conceitos básicos do React e é um ótimo ponto de partida para quem está iniciando seus estudos na biblioteca. Espero que este projeto seja útil para você e ajude em seu aprendizado!</p
