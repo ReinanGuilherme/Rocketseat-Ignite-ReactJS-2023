@@ -1,0 +1,36 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2023-03-14T13:50:26.225Z"
+    },
+    {
+      "id": 2,
+      "description": "Hamburguer",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 50,
+      "createdAt": "2023-03-14T13:45:26.225Z"
+    },
+    {
+      "description": "Desenvolvimento de app",
+      "category": "venda",
+      "price": 10000,
+      "type": "income",
+      "createdAt": "2023-03-14T18:41:59.465Z",
+      "id": 3
+    },
+    {
+      "description": "Nutela",
+      "category": "alimentação",
+      "price": 25,
+      "type": "outcome",
+      "createdAt": "2023-03-14T19:10:10.179Z",
+      "id": 4
+    }
+  ]
+}
