@@ -14,14 +14,28 @@
     <li>Use Context Selector: Uma biblioteca que permite o compartilhamento de estados globais entre componentes, de forma simplificada e com melhor desempenho.</li>
   </ul>
   
-  <h2>Como executar o projeto</h2>
-  <ol>
-    <li>Clone este repositório em sua máquina local.</li>
-    <li>Instale as dependências do projeto com o comando <code>yarn</code>.</li>
-    <li>Execute o JSON-SERVER com o comando <code>yarn server</code>.</li>
-    <li>Em outro terminal, execute o projeto com o comando <code>yarn start</code>.</li>
-    <li>Acesse a aplicação no seu navegador em <code>http://localhost:3000</code>.</li>
-  </ol>
+  <h2>Como utilizar</h2>
+    <p>Para utilizar este projeto em sua máquina local, siga os seguintes passos:</p>
+    <ol>
+    <li>Clone este repositório utilizando o seguinte comando:
+        <br>
+        <code>git clone https://github.com/ReinanGuilherme/Rocketseat-Ignite-ReactJS-2023</code>
+    </li>
+    <li>Acesse a pasta do projeto
+        <br>
+        <code>cd projeto03</code>
+    </li>
+    <li>Instale as dependências do projeto
+        <br>
+        <code>yarn</code>
+    </li>
+    <li>Execute o projeto
+        <br>
+        <code>yarn dev</code>
+    </li>
+    </ol>
+    <h2>Considerações finais</h2>
+    <p>Este projeto apresenta os conceitos básicos do React e é um ótimo ponto de partida para quem está iniciando seus estudos na biblioteca. Espero que este projeto seja útil para você e ajude em seu aprendizado!</p
   
   <h2>Conclusão</h2>
   <p>Este projeto é uma excelente oportunidade para aprofundar seus conhecimentos em ReactJS e suas bibliotecas e ferramentas relacionadas. Sinta-se à vontade para explorar o código e adaptá-lo às suas necessidades. Se tiver alguma dúvida ou sugestão, não hesite em entrar em contato. Obrigado por utilizar este repositório!</p>
