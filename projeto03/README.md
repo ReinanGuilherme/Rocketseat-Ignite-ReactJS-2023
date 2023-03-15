@@ -33,6 +33,12 @@
     <li>Execute o projeto
         <br>
         <code>yarn dev</code>
+        <br>
+        <code>yarn dev:server</code>
+    </li>
+    <li>Execute o servidor
+        <br>
+        <code>yarn dev:server</code>
     </li>
     </ol>
   
