@@ -3,15 +3,16 @@
   
   <h2>Bibliotecas e Ferramentas Utilizadas</h2>
   <ul>
-    <li>Styled Components: Biblioteca que permite escrever CSS dentro do JavaScript, tornando a criação de componentes mais simples e fácil de manter.</li>
-    <li>Phosphor Icons: Uma biblioteca de ícones SVG gratuitos, que pode ser usada para personalizar a aparência dos componentes.</li>
-    <li>Radix-UI: Um conjunto de componentes React reutilizáveis e extensíveis para construir interfaces de usuário.</li>
-    <li>JSON-SERVER: Uma biblioteca Node.js que permite criar rapidamente uma API REST completa com dados armazenados em um arquivo JSON.</li>
-    <li>React Hook Form: Biblioteca que permite a criação de formulários com validação simplificada, usando hooks do React.</li>
-    <li>@ReactForm/Resolvers: Um pacote que oferece diversos resolvers para validar os dados dos formulários criados com React Hook Form.</li>
-    <li>Zod: Uma biblioteca de validação de esquemas para JavaScript/TypeScript, que pode ser usada em conjunto com React Hook Form e outros pacotes relacionados.</li>
-    <li>Axios: Uma biblioteca para fazer requisições HTTP no navegador e no servidor.</li>
-    <li>Use Context Selector: Uma biblioteca que permite o compartilhamento de estados globais entre componentes, de forma simplificada e com melhor desempenho.</li>
+    <li><strong>Styled Components:</strong> Biblioteca que permite escrever CSS dentro do JavaScript, tornando a criação de componentes mais simples e fácil de manter.</li>
+    <li><strong>Phosphor Icons:</strong> Uma biblioteca de ícones SVG gratuitos, que pode ser usada para personalizar a aparência dos componentes.</li>
+    <li><strong>Radix-UI:</strong> Um conjunto de componentes React reutilizáveis e extensíveis para construir interfaces de usuário.</li>
+    <li><strong>JSON-SERVER:</strong> Uma biblioteca Node.js que permite criar rapidamente uma API REST completa com dados armazenados em um arquivo JSON.</li>
+    <li><strong>React Hook Form:</strong> Biblioteca que permite a criação de formulários com validação simplificada, usando hooks do React.</li>
+    <li><strong>@ReactForm/Resolvers:</strong> Um pacote que oferece diversos resolvers para validar os dados dos formulários criados com React Hook Form.</li>
+    <li><strong>Zod:</strong> Uma biblioteca de validação de esquemas para JavaScript/TypeScript, que pode ser usada em conjunto com React Hook Form e outros pacotes relacionados.</li>
+    <li><strong>Axios:</strong> Uma biblioteca para fazer requisições HTTP no navegador e no servidor.</li>
+    <li><strong>Use Context Selector:</strong> Uma biblioteca que permite o compartilhamento de estados globais entre componentes, de forma simplificada e com melhor desempenho.</li>
+    <li><strong>TypeScript:</strong> Adicionar tipagem estática ao código.</li>
   </ul>
   
   <h2>Como utilizar</h2>
@@ -34,8 +35,6 @@
         <code>yarn dev</code>
     </li>
     </ol>
-    <h2>Considerações finais</h2>
-    <p>Este projeto apresenta os conceitos básicos do React e é um ótimo ponto de partida para quem está iniciando seus estudos na biblioteca. Espero que este projeto seja útil para você e ajude em seu aprendizado!</p
   
   <h2>Conclusão</h2>
   <p>Este projeto é uma excelente oportunidade para aprofundar seus conhecimentos em ReactJS e suas bibliotecas e ferramentas relacionadas. Sinta-se à vontade para explorar o código e adaptá-lo às suas necessidades. Se tiver alguma dúvida ou sugestão, não hesite em entrar em contato. Obrigado por utilizar este repositório!</p>
