@@ -22,7 +22,7 @@ const newTransactionFormSchema = zod.object({
 
 type NewTransactionFormInputs = zod.infer<typeof newTransactionFormSchema>
 
-export function NewTransactionModal(data: NewTransactionFormInputs) {
+export function NewTransactionModal() {
   const createTransaction = useContextSelector(
     TransactionsContext,
     (context) => {
